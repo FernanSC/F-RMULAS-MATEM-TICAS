@@ -6,7 +6,7 @@ círculo = π * r2 (pi * radio al cuadrado)
 */
 
 //1)Preguntamos la figura que deseamos
-let figura = prompt("Escribe que figura deseas utilizar: 1) Triángulo, 2) Paralelogramo, 3) Rectángulo, 4) Cuadrado, 5)Rombo, 6) Cometa, 7) Trapecio; 8) Círculo ")
+let figura = prompt("Elije que figura deseas utilizar: 1) Triángulo - 2) Paralelogramo - 3) Rectángulo - 4) Cuadrado - 5)Rombo - 6) Cometa - 7) Trapecio - 8) Círculo ")
 
 //2) Creamos las variable
 let base;
