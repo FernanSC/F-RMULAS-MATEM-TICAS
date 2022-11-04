@@ -1,0 +1,55 @@
+body{
+    background-image: url(../img/a2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+    margin: 0;
+
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+h2{
+    margin: 0 0 0 15px;
+    color: saddlebrown;
+}
+
+#bastri, #alttri, #aretri {
+color: rgb(172, 18, 38);
+}
+
+#bapara, #alpara, #arpara{
+    color: brown;
+}
+
+#barec, #alrec, #arrec{
+    color: aqua;
+}
+
+#lacua, #arcua{
+    color: blue;
+}
+
+#dmarom, #dmerom, #arrom{
+    color: blueviolet;
+}
+
+#dmaco, #dmeco, #areco{
+    color: chartreuse;
+}
+
+#bmatra, #bmetra, #artra{
+    color: darkorange;
+}
+
+#radcir, #arcir{
+    color: darkblue;
+}
+
+footer{
+    padding: 3px 0 3px 0;
+    margin: 780px 0 0 0;
+}
